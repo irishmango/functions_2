@@ -1,6 +1,5 @@
 double average(List<double> numbers) {
   double sum = 0;
-  double average = 0;
   for (double number in numbers) {
     sum += number;
   }
